@@ -9,10 +9,10 @@ body
 }
 #container
 {
-    width: 70%;
+    width: 80%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(160, 15, 15);
     margin: 0 auto;
 }
 
